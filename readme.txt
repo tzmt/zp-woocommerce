@@ -1,7 +1,5 @@
 === ZodiacPress For WooCommerce ===
 Contributors: isabel104
-Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=B4ZUZQKG2M58G&lc=US&no_note=1&no_shipping=1&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted
-Tags: sell reports, sell astrology reports, zodiacpress, astrology, woocommerce
 Requires at least: 4.7
 Tested up to: 4.9
 Requires PHP: 5.4
