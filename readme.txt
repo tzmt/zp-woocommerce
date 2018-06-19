@@ -1,9 +1,9 @@
 === ZodiacPress Sell Reports ===
 Contributors: isabel104
 Requires at least: 4.7
-Tested up to: 5.0-alpha-43311
+Tested up to: 5.0-alpha-43320
 Requires PHP: 5.4
-Stable tag: 1.2.1
+Stable tag: 1.2.2
 License: GNU GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -57,7 +57,12 @@ If you encounter problems with this plugin, first check to make sure that your s
 
 == Changelog ==
 
+= 1.2.2 =
+
+* Fix - Form was not allowing time offset of 0, for example, London timezone.
+
 = 1.2.1 =
+
 * New - Added suggested text to the WordPress Privacy Policy Guide.
 * Tweak - Removed the enable_free_preview option since it is unecessary.
 
